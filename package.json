@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "async": "^2.1.4",
-    "highcharts": "^5.0.7",
+    "highcharts": "^8.2.0",
     "pug": "^2.0.0-beta11",
     "quandl": "0.0.6",
     "react": "^15.4.2",
